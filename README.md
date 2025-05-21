@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Sen Behera</h1>
 <h3 align="center">Full Stack Developer | Computer Science Undergraduate | Web Designer | Front-End Designer | Web Developer</h3>
 
-- 👨‍💻 Portfolio [https://bit.ly/FolioTarun](https://bit.ly/FolioTarun)
+- 👨‍💻 Portfolio [https://foliotarun.vercel.app/](https://foliotarun.vercel.app/)
 
 - 📫 How to reach me **tarunbehera10@gmail.com**
 
