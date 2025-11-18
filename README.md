@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm Tarun Sen Behera</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=tarunbehera7&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbehera7" /> </p>
+<!-- <h1 align="left">Hi 👋, I'm Tarun Sen Behera</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=tarunbehera7&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbehera7" /> </p> -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>Tarun Behera</h2>
+  <img src="https://komarev.com/ghpvc/?username=TarunBehera&color=blue" />
+</div>
 <h3 align="center">Full Stack Developer | Computer Science Undergraduate | Web Designer | Front-End Designer | Web Developer</h3>
 
 
