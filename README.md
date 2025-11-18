@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Sen Behera</h1>
 <h3 align="center">Full Stack Developer | Computer Science Undergraduate | Web Designer | Front-End Designer | Web Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunbehera7&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbehera7" /> </p>
 
 - 👨‍💻 Portfolio [https://foliotarun.vercel.app/](https://foliotarun.vercel.app/)
 
